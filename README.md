@@ -12,6 +12,7 @@ The Enigma machine is a cipher device used to transmit messages securely during 
 
 The amazing feat of the Enigma machine is its superiority compared to a basic caesar cipher.
 For example, when you want to encrypt a sequence of letters:
+
 `aaaaaaaaaaaaaaaaaaaa`
 
 using a caesar cipher will result into:
