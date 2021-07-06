@@ -30,7 +30,7 @@ which is very hard to solve if we don't know the right configuration.
 You can run the example by running
 
 ```bash
-go run cmd/main.go
+go run main.go
 
 ```
 
